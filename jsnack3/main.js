@@ -13,10 +13,10 @@ console.log(arrayNumbers);
 const mainAddress = document.querySelector('main');
 
 const elementDivRed = document.createElement('div');
-elementDivRed.className = 'red';
+elementDivRed.id = 'red';
 
 const elementDivGreen = document.createElement('div');
-elementDivGreen.className = 'green';
+elementDivGreen.id = 'green';
 
 let oddNumber = '';
 let evenNumber = '';

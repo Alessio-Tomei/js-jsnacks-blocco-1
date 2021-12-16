@@ -1,11 +1,11 @@
-.red {
+#red {
     padding: 30px;
     color: red;
     border: 1px solid red;
     margin-bottom: 10px;
 }
 
-.green {
+#green {
     padding: 30px;
     color: green;
     border: 1px solid green;
